@@ -34,7 +34,7 @@ Note: (This Tools Are free, but You Need Permission To Use SXS PRO Tools Enjoy)
 
 ```
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/sujoyroy113/MINHAZ-BYPASS ; cd MINHAZ-BYPASS; python minhaz-bypass.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/sujoyroy113/SXS-PRO ; cd SXS-PRO ; python Run.py
 
 ```
 
