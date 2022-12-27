@@ -10,7 +10,7 @@
 
 ```
 cd
-rm -rf MINHAZ-BYPASS
+rm -rf SXS-PRO
 pkg update
 pkg upgrade
 pkg install python
@@ -19,15 +19,15 @@ pip install requests
 pip install mechanize
 pip install bs4
 pkg install git
-git clone https://github.com/sujoyroy113/MINHAZ-BYPASS
+git clone https://github.com/sujoyroy113/SXS-PRO.git
 
 Run 🔥
 
-cd MINHAZ-BYPASS
-python minhaz-bypass.py
+cd SXS-PRO
+python Run.py
 
 
-Note: (This Tools Are free, but You Need Permission To Use MINHAZ-BYPASS Tools Enjoy)
+Note: (This Tools Are free, but You Need Permission To Use SXS PRO Tools Enjoy)
 ```
 
 # Single Command 
@@ -40,7 +40,7 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip instal
 
 ![20200808_160757](https://github.com/sujoyroy113/sujoyroy113/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
- Note: (This Tools Are free, but You Need Permission To Use MINHAZ-BYPASS Tools Enjoy)</br>
+ Note: (This Tools Are free, but You Need Permission To Use SXS Tools Enjoy)</br>
  [CODED BY Mr. SUJOY]
  
 ![20200808_160757](https://github.com/sujoyroy113/sujoyroy113/blob/main/images.png)
