@@ -1,7 +1,7 @@
 import os,time,platform
+print('\033[1;32m\n Congratulations! Your Device Support This Tools\033[1;32m')
 os.system('clear')
 print('[•] Checking Updates...')
-print('\033[1;32m\n Congratulations! Your Device Support This Tools\033[1;32m')
 os.system('git pull')
 green = ('\033[1;32m')
 white = ('\033[1;37m')
